@@ -1,0 +1,5 @@
+torch=1.11.0,3.0.0
+datasets=2.0.0,3.0.0
+pandas
+scikit-learn
+matplotlib
